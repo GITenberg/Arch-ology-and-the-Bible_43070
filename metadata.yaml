@@ -1,0 +1,31 @@
+_repo: Arch-ology-and-the-Bible_43070
+_version: 0.1.0
+alternative_title: Archaeology and the Bible
+covers:
+- cover_type: archival
+  image_path: 43070-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Barton, George A. (George Aaron)
+    alias: Barton, George Aaron
+    birthdate: 1859
+    deathdate: 1942
+    gutenberg_agent_id: '42009'
+    url: http://www.gutenberg.org/2009/agents/42009
+description: ''
+gutenberg_issued: '2013-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43070'
+  lccn: '19001559'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Middle East -- Antiquities'
+- !lcsh 'Egypt -- Antiquities'
+- !lcc 'DS'
+- !lcsh 'Bible -- Antiquities'
+title: Archæology and the Bible
+url: http://www.gutenberg.org/ebooks/43070
